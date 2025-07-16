@@ -1,7 +1,3 @@
-Thanks for sharing the code! Based on your script, here’s a tailored `README.md` for your **2048 Game in Python** project:
-
----
-
 # 🧩 2048 Game – Python (Console Version)
 
 A simple and fully playable version of the classic 2048 game built with **Python**, running in the terminal. This version uses basic console I/O and avoids external GUI libraries, making it lightweight and easy to understand.
@@ -85,7 +81,3 @@ Combine numbered tiles by sliding them (up/down/left/right) to reach the **2048*
 ## 📄 License
 
 This project is free to use and modify. Attribution appreciated!
-
----
-
-Let me know if you’d like this formatted in actual Markdown or want it added to your repo automatically.
